@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhilash Chutia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer and B.C.A student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashchutia&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashchutia" /> </p>
 
-- 🔭 I’m currently working on **Web Developement**
+- 🔭 I’m currently working on **Software Developement**
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🌱 I’m currently learning **C++,Python, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Software Developement**
 
