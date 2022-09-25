@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashchutia&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashchutia" /> </p>
 
 - 🔭 I’m currently working on **Software Developement**
-
 - 🌱 I’m currently learning **C++,Python, Machine Learning**
-
 - 👯 I’m looking to collaborate on **Software Developement**
-
 - 🤝 I’m looking for help with **Machine Learning**
-
 - 📫 How to reach me **abhilashchutia1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
