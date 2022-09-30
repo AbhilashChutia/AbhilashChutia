@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **C++,Python, Machine Learning**
 - 👯 I’m looking to collaborate on **Software Developement**
 - 📫 How to reach me **abhilashchutia1999@gmail.com**
+- :blush: Have a nice day!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
