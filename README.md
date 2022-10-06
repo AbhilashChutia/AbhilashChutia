@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhilash Chutia</h1>
 <h3 align="center">A passionate software developer and B.C.A student from India</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/75405213/193334480-9400bbcd-080b-4530-8c16-7ee1e86e3aa2.gif" alt="Coding" width="450">
+<img align="right" src="https://user-images.githubusercontent.com/75405213/193334480-9400bbcd-080b-4530-8c16-7ee1e86e3aa2.gif" alt="Coding" width="430">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashchutia&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashchutia" /> </p>
 <p align="left"> <a href="https://twitter.com/abhilashchutia" target="blank"><img src="https://img.shields.io/twitter/follow/abhilashchutia?logo=twitter&style=for-the-badge" alt="abhilashchutia" /></a> </p>
