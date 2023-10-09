@@ -1,8 +1,9 @@
 ![eae5f5a96e7dfd5e2ded27b372e726da](https://user-images.githubusercontent.com/75405213/192159395-949d5525-d451-4931-826d-6e4b7b365c1f.jpg)
 <h1 align="center">Hi 👋, I'm Abhilash Chutia</h1>
 <h3 align="center">A passionate software developer and M.C.A student from Tezpur University, Assam, India</h3>
-💫 About Me: </br>
-🔭 I’m currently working on : Full Stack Wev Developement<br>👯 I’m looking to collaborate on : Full Stack Websites<br>🤝 I’m looking for help with : Machine Learning<br>🌱 I’m currently learning : Machine Learning<br>💬 Ask me about anything!<br>⚡ Fun fact : Computer Science was suppossed to be fun at one point! 
+
+<h3>💫 About Me: </br>
+🔭 I’m currently working on : Full Stack Wev Developement<br>👯 I’m looking to collaborate on : Full Stack Websites<br>🤝 I’m looking for help with : Machine Learning<br>🌱 I’m currently learning : Machine Learning<br>💬 Ask me about anything!<br>⚡ Fun fact : Computer Science was suppossed to be fun at one point! </h3>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhilash_chutia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhilash-chutia/) 
