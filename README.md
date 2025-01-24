@@ -1,4 +1,4 @@
-![eae5f5a96e7dfd5e2ded27b372e726da](https://user-images.githubusercontent.com/75405213/192159395-949d5525-d451-4931-826d-6e4b7b365c1f.jpg)
+#![eae5f5a96e7dfd5e2ded27b372e726da](https://user-images.githubusercontent.com/75405213/192159395-949d5525-d451-4931-826d-6e4b7b365c1f.jpg)
 <h1 align="center">Hi 👋, I'm Abhilash Chutia</h1>
 <h3 align="center">A passionate software developer and M.C.A student from Tezpur University, Assam, India</h3>
 
